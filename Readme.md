@@ -27,9 +27,9 @@
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ikramulkayes&show_icons=true&theme=gotham" alt="Ikramul" /> <!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula-->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ikramulkayes&show_icons=true&theme=gotham" alt="Ikramul" /> <!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula--><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramulkayes&layout=compact&&theme=gotham)](https://github.com/ikramulkayes/github-readme-stats)<br>
+
 
 ![Ikramul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ikramulkayes&theme=xcode)
 
