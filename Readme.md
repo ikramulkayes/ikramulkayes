@@ -21,7 +21,7 @@
 
 - :computer: I am currently a first year studnet at BRAC University
 - :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
+- :rocket: Approver at [CNCF glossary Bengali Localizatio link](https://github.com/cncf/glossary/tree/dev-bn)
 - :man_technologist: Kata 5 problem solver at codewars.com 
 - :zap: Learning every day<br>
 
