@@ -19,7 +19,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I am currently a first year studnet at BRAC University
+- :computer: I am currently a second year studnet at BRAC University
 - :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
 - :rocket: Approver at [CNCF glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn)
 - :man_technologist: Kata 5 problem solver at codewars.com 
