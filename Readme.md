@@ -15,15 +15,19 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
  <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
+ <a href="https://www.ros.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ROS" width="40" height="40"/> </a>
+ <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="ROS" width="40" height="40"/> </a>
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I am currently a second year studnet at BRAC University
-- :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
-- :rocket: Approver at [CNCF glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn)
-- :man_technologist: Kata 5 problem solver at codewars.com 
-- :zap: Learning every day<br>
+-  I am currently a Thrid year studnet at BRAC University
+-  Exploring ROS and NLP
+-  First Runners up at NASA Space Apps 2022 Bangladesh
+-  Former HR of both AI and Autonomous and Research & Development subteam of Team Dichari
+-  Former Approver at [CNCF glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn) , Former Microsoft Learn Student Ambassador
+-  Kata 5 problem solver at codewars.com 
+-  Learning every day<br>
 
 📈 My GitHub Stats
 
