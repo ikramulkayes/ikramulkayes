@@ -22,7 +22,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 -  I am currently a Thrid year studnet at BRAC University
--  Exploring ROS and NLP
+-  Exploring DevOps and NLP
 -  First Runners up at NASA Space Apps 2022 Bangladesh
 -  Former HR of both AI and Autonomous and Research & Development subteam of Team Dichari
 -  Former Approver at [CNCF glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn) , Former Microsoft Learn Student Ambassador
