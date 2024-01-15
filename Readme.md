@@ -12,13 +12,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikramulkayes&label=Profile%20views&color=0e75b6&style=flat" alt="ikramulkayes" /> </p>
 
-- 🔭 I’m currently working on **React and Django**
+- 🔭 I’m currently working on **DevOps and NLP**
 
-- 🌱 I’m currently learning **Django and React**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Deep Learning and DevOps projects**
 
-- 🤝 I’m looking for help with **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
