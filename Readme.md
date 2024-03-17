@@ -16,7 +16,7 @@
 
 
 
-- Backend development using **Django, Flask, Node js, Express js, FastAPI**.
+- Backend development using **Django, Flask, Node js, Express js, FastAPI, PHP**.
 - Front-end development using **React, Svelte**.
 - Language expertise in **Python, C/C++, JavaScript, Go**.
 - Database Management Systems **MySQL, PostgreSQL, MongoDB**.
