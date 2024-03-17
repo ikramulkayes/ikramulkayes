@@ -10,7 +10,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikramulkayes&label=Profile%20views&color=0e75b6&style=flat" alt="ikramulkayes" /> </p>
+
 
 ## 🔧 Technologies I Know
 
@@ -29,4 +29,4 @@
 - LLM integration Using **LangChain**.
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikramulkayes&label=Profile%20views&color=0e75b6&style=flat" alt="ikramulkayes" /> </p>
