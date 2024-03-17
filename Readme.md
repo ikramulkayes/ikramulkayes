@@ -21,7 +21,7 @@
 - Language expertise in **Python, C/C++, JavaScript, Go**.
 - Database Management Systems **MySQL, PostgreSQL, MongoDB**.
 - DevOps Technologies **Kubernetes, Docker, Jenkins, Github Actions, Terraform, ArgoCD, Grafana, Prometheus**.
-- Operating Systems of **Linux, Windows, MacOS**.
+- Operating Systems **Linux, Windows, MacOS**.
 - Experience of using **Rasberry Pi, Jetson Xavier**.
 - Embedded system Experience **ROS**.
 - Web Scraping Experience **Selenium, Proxy**.
