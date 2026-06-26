@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img width="100%" src="./assets/banner.svg" alt="MD Ikramul Kayes, Backend and AI Engineer" />
+<img width="100%" src="./assets/header.svg" alt="MD Ikramul Kayes, Backend and AI Engineer" />
 
 <a href="https://www.ikramulkayes.com/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=680&lines=Backend+and+AI+Engineer;I+build+AI+agents%2C+voice+bots+%26+automations;RAG+%26+Graph+RAG+%E2%80%A2+n8n+%E2%80%A2+LLM+routing;Shipping+AI+to+production+%F0%9F%9A%80" alt="Typing SVG" />
