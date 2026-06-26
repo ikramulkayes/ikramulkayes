@@ -1,10 +1,10 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=200&section=header&text=MD%20Ikramul%20Kayes&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20Engineer%20•%20Voice%20Agents%20•%20RAG%20•%20n8n%20•%20Backend&descAlignY=58&descSize=18" alt="header banner" />
+<img width="100%" src="./assets/banner.svg" alt="MD Ikramul Kayes, Backend and AI Engineer" />
 
 <a href="https://www.ikramulkayes.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=660&lines=AI+Automation+Engineer;I+build+AI+agents%2C+voice+bots+%26+automations;RAG+%26+Graph+RAG+%E2%80%A2+n8n+%E2%80%A2+LLM+routing;Shipping+AI+to+production+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=680&lines=Backend+and+AI+Engineer;I+build+AI+agents%2C+voice+bots+%26+automations;RAG+%26+Graph+RAG+%E2%80%A2+n8n+%E2%80%A2+LLM+routing;Shipping+AI+to+production+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <p>
@@ -29,7 +29,7 @@
 
 ## 👋 Overview
 
-I'm an AI Automation Engineer based in Dhaka, with about 2.5 years of building autonomous AI agents, LLM-powered workflows, and automation systems that run in production. A lot of my work lives at the intersection of voice agents, RAG and Graph RAG pipelines, and n8n automations, all sitting on solid backend engineering (Node.js, FastAPI) and DevOps (Docker, Kubernetes, CI/CD on AWS and Azure).
+I'm a Backend and AI Engineer based in Dhaka, with about 2.5 years of building autonomous AI agents, LLM-powered workflows, and automation systems that run in production. A lot of my work lives at the intersection of voice agents, RAG and Graph RAG pipelines, and n8n automations, all sitting on solid backend engineering (Node.js, FastAPI) and DevOps (Docker, Kubernetes, CI/CD on AWS and Azure).
 
 I currently work as a Backend and AI Engineer at **AI Buddy Catalyst Labs**, and I take on freelance automation work for teams in the US and Canada. I studied Computer Science at **BRAC University** (CGPA 3.93/4.00, Highest Distinction), where my research focused on how large language models hold knowledge in the Bangla language.
 
@@ -161,6 +161,6 @@ I really enjoy turning AI ideas into things people actually use. Whether it's an
 
 <a href="https://www.ikramulkayes.com/"><img src="https://img.shields.io/badge/📩%20Let's%20build%20something-0e75b6?style=for-the-badge" alt="Contact" /></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:0e75b6&height=120&section=footer" alt="footer" />
+<img width="100%" src="./assets/footer.svg" alt="Thanks for visiting" />
 
 </div>
