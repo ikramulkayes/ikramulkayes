@@ -157,9 +157,9 @@ I currently work as a Backend and AI Engineer at **AI Buddy Catalyst Labs**, and
 
 I really enjoy turning AI ideas into things people actually use. Whether it's an agent, a voice bot, an automation, or a full backend, I'd be glad to hear about it.
 
-📞 **+880 1994225023**  •  📧 **ikramul.kayesgg@gmail.com**
-
-<a href="https://www.ikramulkayes.com/"><img src="https://img.shields.io/badge/📩%20Let's%20build%20something-0e75b6?style=for-the-badge" alt="Contact" /></a>
+<a href="mailto:ikramul.kayesgg@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://wa.me/8801994225023"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://www.ikramulkayes.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge" alt="Portfolio" /></a>
 
 <img width="100%" src="./assets/footer.svg" alt="Thanks for visiting" />
 
