@@ -19,7 +19,7 @@
 <p>
   <a href="https://www.ikramulkayes.com/"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-0e75b6?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/md-ikramul-kayes-753674214"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ikramul.kayesgg@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ikramul.kayes@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/8801994225023"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
@@ -157,7 +157,7 @@ I currently work as a Backend and AI Engineer at **AI Buddy Catalyst Labs**, and
 
 I really enjoy turning AI ideas into things people actually use. Whether it's an agent, a voice bot, an automation, or a full backend, I'd be glad to hear about it.
 
-<a href="mailto:ikramul.kayesgg@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:ikramul.kayes@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://wa.me/8801994225023"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 <a href="https://www.ikramulkayes.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge" alt="Portfolio" /></a>
 
